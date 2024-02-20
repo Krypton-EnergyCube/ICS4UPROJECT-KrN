@@ -1601,16 +1601,16 @@ nervously	-2
 nice	3
 nifty	2
 niggas	-5
-nigger	-5
+nigger  -5
 no	-1
-no fun	-3
+nofun	-3
 noble	2
 noisy	-1
 nonsense	-2
 noob	-2
 nosey	-2
-not good	-2
-not working	-3
+notgood	-2
+notworking	-3
 notorious	-2
 novel	2
 numb	-1
