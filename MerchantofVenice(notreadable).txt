@@ -1,8 +1,5 @@
-abhorrent
 The Merchant of Venice
-Shakespeare homepage | Merchant of Venice | Entire play
-ACT I
-SCENE I. Venice. A street.
+Shakespeare homepage | Merchant of Venice | Entire play. Venice. A street.
 Enter ANTONIO, SALARINO, and SALANIO
 ANTONIO
 In sooth, I know not why I am so sad:
@@ -230,9 +227,7 @@ To furnish thee to Belmont, to fair Portia.
 Go, presently inquire, and so will I,
 Where money is, and I no question make
 To have it of my trust or for my sake.
-Exeunt
-
-SCENE II: Belmont. A room in PORTIA'S house.
+Exeunt: Belmont. A room in PORTIA'S house.
 Enter PORTIA and NERISSA
 
 PORTIA
@@ -395,8 +390,7 @@ Nerissa. Sirrah, go before.
 Whiles we shut the gates
 upon one wooer, another knocks at the door.
 Exeunt
-
-SCENE III. Venice. A public place.
+. Venice. A public place.
 Enter BASSANIO and SHYLOCK
 SHYLOCK
 Three thousand ducats; well.
@@ -634,9 +628,7 @@ ANTONIO
 Come on: in this there can be no dismay;
 My ships come home a month before the day.
 Exeunt
-
-ACT II
-SCENE I. Belmont. A room in PORTIA'S house.
+ I. Belmont. A room in PORTIA'S house.
 Flourish of cornets. Enter the PRINCE OF MOROCCO and his train; PORTIA, NERISSA, and others attending
 MOROCCO
 Mislike me not for my complexion,
@@ -696,7 +688,7 @@ Good fortune then!
 To make me blest or cursed'st among men.
 Cornets, and exeunt
 
-SCENE II. Venice. A street.
+  . Venice. A street.
 Enter LAUNCELOT
 LAUNCELOT
 Certainly my conscience will serve me to run from
@@ -976,7 +968,7 @@ And I must to Lorenzo and the rest:
 But we will visit you at supper-time.
 Exeunt
 
-SCENE III. The same. A room in SHYLOCK'S house.
+  I. The same. A room in SHYLOCK'S house.
 Enter JESSICA and LAUNCELOT
 JESSICA
 I am sorry thou wilt leave my father so:
@@ -1006,7 +998,7 @@ If thou keep promise, I shall end this strife,
 Become a Christian and thy loving wife.
 Exit
 
-SCENE IV. The same. A street.
+ IV. The same. A street.
 Enter GRATIANO, LORENZO, SALARINO, and SALANIO
 LORENZO
 Nay, we will slink away in supper-time,
@@ -1076,7 +1068,7 @@ Come, go with me; peruse this as thou goest:
 Fair Jessica shall be my torch-beare r.
 Exeunt
 
-SCENE V. The same. Before SHYLOCK'S house.
+ V. The same. Before SHYLOCK'S house.
 Enter SHYLOCK and LAUNCELOT
 SHYLOCK
 Well, thou shalt see, thy eyes shall be thy judge,
@@ -1158,7 +1150,7 @@ Farewell; and if my fortune be not crost,
 I have a father, you a daughter, lost.
 Exit
 
-SCENE VI. The same.
+ VI. The same.
 Enter GRATIANO and SALARINO, masqued
 GRATIANO
 This is the pent-house under which Lorenzo
@@ -1266,7 +1258,7 @@ I am glad on't: I desire no more delight
 Than to be under sail and gone to-night.
 Exeunt
 
-SCENE VII. Belmont. A room in PORTIA'S house.
+ V . Belmont. A room in PORTIA'S house.
 Flourish of cornets. Enter PORTIA, with the PRINCE OF MOROCCO, and their trains
 PORTIA
 Go draw aside the curtains and discover
@@ -1363,7 +1355,7 @@ A gentle riddance. Draw the curtains, go.
 Let all of his complexion choose me so.
 Exeunt
 
-SCENE VIII. Venice. A street.
+ V I. Venice. A street.
 Enter SALARINO and SALANIO
 SALARINO
 Why, man, I saw Bassanio under sail:
@@ -1433,7 +1425,7 @@ SALARINO
 Do we so.
 Exeunt
 
-SCENE IX. Belmont. A room in PORTIA'S house.
+ IX. Belmont. A room in PORTIA'S house.
 Enter NERISSA with a Servitor
 NERISSA
 Quick, quick, I pray thee; draw the curtain straight:
@@ -1564,10 +1556,7 @@ Come, come, Nerissa; for I long to see
 Quick Cupid's post that comes so mannerly.
 NERISSA
 Bassanio, lord Love, if thy will it be!
-Exeunt
-
-ACT III
-SCENE I. Venice. A street.
+Exeunt. Venice. A street.
 Enter SALANIO and SALARINO
 SALANIO
 Now, what news on the Rialto?
@@ -1737,7 +1726,7 @@ will. Go, go, Tubal, and meet me at our synagogue;
 go, good Tubal; at our synagogue, Tubal.
 Exeunt
 
-SCENE II. Belmont. A room in PORTIA'S house.
+  . Belmont. A room in PORTIA'S house.
 Enter BASSANIO, PORTIA, GRATIANO, NERISSA, and Attendants
 PORTIA
 I pray you, tarry: pause a day or two
@@ -2134,7 +2123,7 @@ No bed shall e'er be guilty of my stay,
 No rest be interposer 'twixt us twain.
 Exeunt
 
-SCENE III. Venice. A street.
+  I. Venice. A street.
 Enter SHYLOCK, SALARINO, ANTONIO, and Gaoler
 SHYLOCK
 Gaoler, look to him: tell not me of mercy;
@@ -2188,7 +2177,7 @@ Well, gaoler, on. Pray God, Bassanio come
 To see me pay his debt, and then I care not!
 Exeunt
 
-SCENE IV. Belmont. A room in PORTIA'S house.
+ IV. Belmont. A room in PORTIA'S house.
 Enter PORTIA, NERISSA, LORENZO, JESSICA, and BALTHASAR
 LORENZO
 Madam, although I speak it in your presence,
@@ -2296,7 +2285,7 @@ At the park gate; and therefore haste away,
 For we must measure twenty miles to-day.
 Exeunt
 
-SCENE V. The same. A garden.
+ V. The same. A garden.
 Enter LAUNCELOT and JESSICA
 LAUNCELOT
 Yes, truly; for, look you, the sins of the father
@@ -2417,9 +2406,7 @@ I shall digest it.
 JESSICA
 Well, I'll set you forth.
 Exeunt
-
-ACT IV
-SCENE I. Venice. A court of justice.
+. Venice. A court of justice.
 Enter the DUKE, the Magnificoes, ANTONIO, BASSANIO, GRATIANO, SALERIO, and others
 DUKE
 What, is Antonio here?
@@ -3053,7 +3040,7 @@ And in the morning early will we both
 Fly toward Belmont: come, Antonio.
 Exeunt
 
-SCENE II. The same. A street.
+  . The same. A street.
 Enter PORTIA and NERISSA
 PORTIA
 Inquire the Jew's house out, give him this deed
@@ -3091,9 +3078,7 @@ Away! make haste: thou knowist where I will tarry.
 NERISSA
 Come, good sir, will you show me to this house?
 Exeunt
-
-ACT V
-SCENE I. Belmont. Avenue to PORTIA'S house.
+. Belmont. Avenue to PORTIA'S house.
 Enter LORENZO and JESSICA
 LORENZO
 The moon shines bright: in such a night as this,
